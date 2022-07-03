@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "API.Bll.Error/1.0.0": {
+        "dependencies": {
+          "API.Dto.Error": "1.0.0",
+          "API.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "API.Bll.Error.dll": {}
+        }
+      },
+      "API.Dto.Error/1.0.0": {
+        "dependencies": {
+          "API.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "API.Dto.Error.dll": {}
+        }
+      },
+      "API.Dto.General/1.0.0": {
+        "runtime": {
+          "API.Dto.General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.Bll.Error/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Dto.Error/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Dto.General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

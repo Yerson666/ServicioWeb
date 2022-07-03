@@ -1,0 +1,17 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Bll.Departamento.deps.json
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Bll.Departamento.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\ref\API.Bll.Departamento.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Bll.Departamento.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Dto.Departamento.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Dto.Departamento.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.csproj.CoreCompileInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.csproj.CopyComplete
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\ref\API.Bll.Departamento.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Departamento\obj\Debug\net5.0\API.Bll.Departamento.pdb

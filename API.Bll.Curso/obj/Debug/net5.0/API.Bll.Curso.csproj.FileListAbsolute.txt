@@ -1,0 +1,17 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Bll.Curso.deps.json
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Bll.Curso.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\ref\API.Bll.Curso.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Bll.Curso.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Dto.Curso.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Dto.Curso.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.csproj.CoreCompileInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.csproj.CopyComplete
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\ref\API.Bll.Curso.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Bll.Curso\obj\Debug\net5.0\API.Bll.Curso.pdb

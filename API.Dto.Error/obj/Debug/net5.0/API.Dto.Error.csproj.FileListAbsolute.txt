@@ -1,0 +1,15 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\API.Dto.Error.deps.json
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\API.Dto.Error.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\ref\API.Dto.Error.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\API.Dto.Error.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.csproj.CoreCompileInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.csproj.CopyComplete
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\ref\API.Dto.Error.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Error\obj\Debug\net5.0\API.Dto.Error.pdb

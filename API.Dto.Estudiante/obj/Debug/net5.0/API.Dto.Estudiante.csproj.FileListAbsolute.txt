@@ -1,0 +1,15 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\API.Dto.Estudiante.deps.json
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\API.Dto.Estudiante.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\ref\API.Dto.Estudiante.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\API.Dto.Estudiante.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.csproj.CopyComplete
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\ref\API.Dto.Estudiante.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.Estudiante\obj\Debug\net5.0\API.Dto.Estudiante.pdb

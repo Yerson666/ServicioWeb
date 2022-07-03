@@ -1,0 +1,5 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\AdCurso\obj\Debug\net5.0\AdCurso.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\AdCurso\obj\Debug\net5.0\AdCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\AdCurso\obj\Debug\net5.0\AdCurso.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\AdCurso\obj\Debug\net5.0\AdCurso.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\AdCurso\obj\Debug\net5.0\AdCurso.csproj.CoreCompileInputs.cache

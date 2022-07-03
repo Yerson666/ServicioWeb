@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "API.Bll.Curso/1.0.0": {
+        "dependencies": {
+          "API.Dto.Curso": "1.0.0",
+          "API.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "API.Bll.Curso.dll": {}
+        }
+      },
+      "API.Dto.Curso/1.0.0": {
+        "dependencies": {
+          "API.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "API.Dto.Curso.dll": {}
+        }
+      },
+      "API.Dto.General/1.0.0": {
+        "runtime": {
+          "API.Dto.General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.Bll.Curso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Dto.Curso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Dto.General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

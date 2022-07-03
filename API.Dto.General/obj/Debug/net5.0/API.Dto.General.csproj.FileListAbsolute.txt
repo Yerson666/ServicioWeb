@@ -1,0 +1,12 @@
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\bin\Debug\net5.0\API.Dto.General.deps.json
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\bin\Debug\net5.0\ref\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.csproj.AssemblyReference.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.AssemblyInfoInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.AssemblyInfo.cs
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.csproj.CoreCompileInputs.cache
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\ref\API.Dto.General.dll
+C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.pdb

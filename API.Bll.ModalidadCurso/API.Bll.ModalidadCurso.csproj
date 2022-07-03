@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net5.0</TargetFramework>
+	  <ImplicitUsing>enable</ImplicitUsing>
+	  <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API.Dto.General\API.Dto.General.csproj" />
+    <ProjectReference Include="..\API.Dto.ModalidadCurso\API.Dto.ModalidadCurso.csproj" />
+  </ItemGroup>
+
+</Project>
