@@ -10,3 +10,15 @@ C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\ne
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.dll
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\ref\API.Dto.General.dll
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\API.Dto.General\obj\Debug\net5.0\API.Dto.General.pdb
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\bin\Debug\net5.0\API.Dto.General.deps.json
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\bin\Debug\net5.0\API.Dto.General.dll
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\bin\Debug\net5.0\API.Dto.General.pdb
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.csproj.AssemblyReference.cache
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.AssemblyInfoInputs.cache
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.AssemblyInfo.cs
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.csproj.CoreCompileInputs.cache
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.dll
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\refint\API.Dto.General.dll
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\API.Dto.General.pdb
+C:\Users\davil\Source\Repos\ServicioWeb\API.Dto.General\obj\Debug\net5.0\ref\API.Dto.General.dll

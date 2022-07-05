@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lOXcwYlo0XxVlG1gVeqyykCX7ITAudhM6QqFcpGw846vkfSMZKOhFqV8tDVVWgYuXl4he9NRmnScochkSCf13g==",
+  "dgSpecHash": "TpMMRmajDMI24GokEQ5tmS/TI5jNoKJLCjDLx3QKuT4s2UFItR+RoMi+Y3op0GDGqdG0ga5IaPlbm1UQ0pRI7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

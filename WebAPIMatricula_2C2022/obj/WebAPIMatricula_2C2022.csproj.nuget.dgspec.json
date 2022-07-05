@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj": {}
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj",
         "projectName": "API.Dal.Curso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,17 +28,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -65,29 +62,101 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj",
+        "projectName": "API.Bll.Carrera",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\API.Dto.Carrera.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\API.Dto.Carrera.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj",
         "projectName": "API.Bll.Curso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,11 +170,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -129,29 +198,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj",
         "projectName": "API.Bll.Departamento",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,11 +245,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -193,29 +273,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj",
         "projectName": "API.Bll.Error",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -229,11 +320,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -257,29 +348,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj",
         "projectName": "API.Bll.Estudiante",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -293,11 +395,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -321,29 +423,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj",
         "projectName": "API.Bll.ModalidadCurso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -357,11 +470,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
               }
             }
           }
@@ -385,29 +498,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj",
         "projectName": "API.Bll.Profesor",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -421,11 +545,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
               }
             }
           }
@@ -449,29 +573,98 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj",
+        "projectName": "API.Bll.Sede",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\API.Dto.Sede.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\API.Dto.Sede.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj",
         "projectName": "API.Dal.Departamento",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -485,17 +678,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -519,29 +712,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj",
         "projectName": "API.Dal.Error",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -555,17 +759,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -589,29 +793,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj",
         "projectName": "API.Dal.Estudiante",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -625,17 +840,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -659,29 +874,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj",
         "projectName": "API.Dal.General",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -695,8 +921,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -730,29 +956,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj",
         "projectName": "API.Dal.ModalidadCurso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -766,17 +1003,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
               }
             }
           }
@@ -800,29 +1037,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj",
         "projectName": "API.Dal.Profesor",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -836,17 +1084,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
               }
             }
           }
@@ -870,29 +1118,98 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\API.Dto.Carrera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\API.Dto.Carrera.csproj",
+        "projectName": "API.Dto.Carrera",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\API.Dto.Carrera.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Carrera\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj",
         "projectName": "API.Dto.Curso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -906,8 +1223,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -931,29 +1248,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj",
         "projectName": "API.Dto.Departamento",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -967,8 +1295,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -992,29 +1320,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj",
         "projectName": "API.Dto.Error",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1028,8 +1367,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -1053,29 +1392,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj",
         "projectName": "API.Dto.Estudiante",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1089,8 +1439,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -1114,29 +1464,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj",
         "projectName": "API.Dto.General",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1171,29 +1532,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj",
         "projectName": "API.Dto.ModalidadCurso",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1207,8 +1579,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -1232,29 +1604,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj",
         "projectName": "API.Dto.Profesor",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1268,8 +1651,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
               }
             }
           }
@@ -1293,104 +1676,55 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\API.Dto.Sede.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
-        "projectName": "WebAPIMatricula_2C2022",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\obj\\",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\API.Dto.Sede.csproj",
+        "projectName": "API.Dto.Sede",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\API.Dto.Sede.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Sede\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
-              },
-              "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj": {
-                "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj"
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
               }
             }
           }
@@ -1402,8 +1736,132 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
+        "projectName": "WebAPIMatricula_2C2022",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
+              },
+              "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj": {
+                "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -1440,36 +1898,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -1480,8 +1935,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -1536,7 +1991,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-	  <TargetFramework>net5.0</TargetFramework>
+	  <TargetFramework>net6.0</TargetFramework>
 	  <ImplicitUsing>enable</ImplicitUsing>
 	  <Nullable>disable</Nullable>
   </PropertyGroup>
@@ -15,12 +15,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AdCurso\API.Dal.Curso.csproj" />
+    <ProjectReference Include="..\API.Bll.Carrera\API.Bll.Carrera.csproj" />
     <ProjectReference Include="..\API.Bll.Curso\API.Bll.Curso.csproj" />
     <ProjectReference Include="..\API.Bll.Departamento\API.Bll.Departamento.csproj" />
     <ProjectReference Include="..\API.Bll.Error\API.Bll.Error.csproj" />
     <ProjectReference Include="..\API.Bll.Estudiante\API.Bll.Estudiante.csproj" />
     <ProjectReference Include="..\API.Bll.ModalidadCurso\API.Bll.ModalidadCurso.csproj" />
     <ProjectReference Include="..\API.Bll.Profesor\API.Bll.Profesor.csproj" />
+    <ProjectReference Include="..\API.Bll.Sede\API.Bll.Sede.csproj" />
     <ProjectReference Include="..\API.Dal.Departamento\API.Dal.Departamento.csproj" />
     <ProjectReference Include="..\API.Dal.Error\API.Dal.Error.csproj" />
     <ProjectReference Include="..\API.Dal.Estudiante\API.Dal.Estudiante.csproj" />

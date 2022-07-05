@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "AutoMapper/11.0.1": {
         "type": "package",
         "dependencies": {
@@ -248,10 +248,10 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -300,10 +300,10 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -681,10 +681,10 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net5.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -696,19 +696,19 @@
           "Swashbuckle.AspNetCore.Swagger": "6.3.1"
         },
         "compile": {
-          "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.3.1": {
         "type": "package",
         "compile": {
-          "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -1342,10 +1342,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -1947,6 +1947,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "API.Bll.Carrera/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "API.Dal.General": "1.0.0",
+          "API.Dto.Carrera": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Bll.Carrera.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Bll.Carrera.dll": {}
+        }
+      },
       "API.Bll.Curso/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2029,6 +2043,19 @@
         },
         "runtime": {
           "bin/placeholder/API.Bll.Profesor.dll": {}
+        }
+      },
+      "API.Bll.Sede/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "API.Dto.Sede": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Bll.Sede.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Bll.Sede.dll": {}
         }
       },
       "API.Dal.Curso/1.0.0": {
@@ -2142,6 +2169,19 @@
           "bin/placeholder/API.Dal.Profesor.dll": {}
         }
       },
+      "API.Dto.Carrera/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "API.Dto.General": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Dto.Carrera.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Dto.Carrera.dll": {}
+        }
+      },
       "API.Dto.Curso/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2230,9 +2270,22 @@
           "bin/placeholder/API.Dto.Profesor.dll": {}
         }
       },
+      "API.Dto.Sede/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "API.Dto.General": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Dto.Sede.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Dto.Sede.dll": {}
+        }
+      },
       "WebAPI/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
@@ -3090,11 +3143,12 @@
       ]
     },
     "runtime.native.System.Net.Http/4.3.0": {
-      "sha512": "guqHgQOK2eUgtJae2VKjNawBn1xjC0hfOt5wASHa60XHbIdCsQlqtvMsFG+3hy7yp88V+gi9fZCjubuDkeakcQ==",
+      "sha512": "ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
       "type": "package",
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -6062,11 +6116,12 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "vOYy7Jv9KsG3ld2hLt0GoERd82SZi4BelrbXLwI9yFBYX7kpbvUCWYo4eyevk47cuJXZ9ZLVAryANcc7iY71aA==",
+      "sha512": "h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.6/System.Security.Cryptography.OpenSsl.dll",
@@ -7016,6 +7071,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "API.Bll.Carrera/1.0.0": {
+      "type": "project",
+      "path": "../API.Bll.Carrera/API.Bll.Carrera.csproj",
+      "msbuildProject": "../API.Bll.Carrera/API.Bll.Carrera.csproj"
+    },
     "API.Bll.Curso/1.0.0": {
       "type": "project",
       "path": "../API.Bll.Curso/API.Bll.Curso.csproj",
@@ -7045,6 +7105,11 @@
       "type": "project",
       "path": "../API.Bll.Profesor/API.Bll.Profesor.csproj",
       "msbuildProject": "../API.Bll.Profesor/API.Bll.Profesor.csproj"
+    },
+    "API.Bll.Sede/1.0.0": {
+      "type": "project",
+      "path": "../API.Bll.Sede/API.Bll.Sede.csproj",
+      "msbuildProject": "../API.Bll.Sede/API.Bll.Sede.csproj"
     },
     "API.Dal.Curso/1.0.0": {
       "type": "project",
@@ -7081,6 +7146,11 @@
       "path": "../API.Dal.Profesor/API.Dal.Profesor.csproj",
       "msbuildProject": "../API.Dal.Profesor/API.Dal.Profesor.csproj"
     },
+    "API.Dto.Carrera/1.0.0": {
+      "type": "project",
+      "path": "../API.Dto.Carrera/API.Dto.Carrera.csproj",
+      "msbuildProject": "../API.Dto.Carrera/API.Dto.Carrera.csproj"
+    },
     "API.Dto.Curso/1.0.0": {
       "type": "project",
       "path": "../API.Dto.Curso/API.Dto.Curso.csproj",
@@ -7116,6 +7186,11 @@
       "path": "../API.Dto.Profesor/API.Dto.Profesor.csproj",
       "msbuildProject": "../API.Dto.Profesor/API.Dto.Profesor.csproj"
     },
+    "API.Dto.Sede/1.0.0": {
+      "type": "project",
+      "path": "../API.Dto.Sede/API.Dto.Sede.csproj",
+      "msbuildProject": "../API.Dto.Sede/API.Dto.Sede.csproj"
+    },
     "WebAPI/1.0.0": {
       "type": "project",
       "path": "../WebAPI/WebAPI.csproj",
@@ -7123,13 +7198,15 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
+      "API.Bll.Carrera >= 1.0.0",
       "API.Bll.Curso >= 1.0.0",
       "API.Bll.Departamento >= 1.0.0",
       "API.Bll.Error >= 1.0.0",
       "API.Bll.Estudiante >= 1.0.0",
       "API.Bll.ModalidadCurso >= 1.0.0",
       "API.Bll.Profesor >= 1.0.0",
+      "API.Bll.Sede >= 1.0.0",
       "API.Dal.Curso >= 1.0.0",
       "API.Dal.Departamento >= 1.0.0",
       "API.Dal.Error >= 1.0.0",
@@ -7152,98 +7229,100 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yearia\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\davil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
+      "projectUniqueName": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
       "projectName": "WebAPIMatricula_2C2022",
-      "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
-      "packagesPath": "C:\\Users\\yearia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022\\obj\\",
+      "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\WebAPIMatricula_2C2022.csproj",
+      "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPIMatricula_2C2022\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\yearia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\davil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\AdCurso\\API.Dal.Curso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\AdCurso\\API.Dal.Curso.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Curso\\API.Bll.Curso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Carrera\\API.Bll.Carrera.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Curso\\API.Bll.Curso.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Error\\API.Bll.Error.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Departamento\\API.Bll.Departamento.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Error\\API.Bll.Error.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Estudiante\\API.Bll.Estudiante.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.ModalidadCurso\\API.Bll.ModalidadCurso.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Departamento\\API.Dal.Departamento.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Profesor\\API.Bll.Profesor.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Error\\API.Dal.Error.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Bll.Sede\\API.Bll.Sede.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Departamento\\API.Dal.Departamento.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.General\\API.Dal.General.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Error\\API.Dal.Error.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Estudiante\\API.Dal.Estudiante.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dal.Profesor\\API.Dal.Profesor.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.General\\API.Dal.General.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Curso\\API.Dto.Curso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.ModalidadCurso\\API.Dal.ModalidadCurso.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dal.Profesor\\API.Dal.Profesor.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Error\\API.Dto.Error.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Curso\\API.Dto.Curso.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Departamento\\API.Dto.Departamento.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.General\\API.Dto.General.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Error\\API.Dto.Error.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Estudiante\\API.Dto.Estudiante.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.General\\API.Dto.General.csproj"
             },
-            "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj": {
-              "projectPath": "C:\\Users\\yearia\\source\\repos\\WebAPIMatricula_2C2022\\WebAPI\\WebAPI.csproj"
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.ModalidadCurso\\API.Dto.ModalidadCurso.csproj"
+            },
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\API.Dto.Profesor\\API.Dto.Profesor.csproj"
+            },
+            "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj": {
+              "projectPath": "C:\\Users\\davil\\Source\\Repos\\ServicioWeb\\WebAPI\\WebAPI.csproj"
             }
           }
         }
@@ -7255,8 +7334,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -7293,7 +7372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

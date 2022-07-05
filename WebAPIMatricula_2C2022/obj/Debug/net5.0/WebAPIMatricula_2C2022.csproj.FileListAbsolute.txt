@@ -116,3 +116,5 @@ C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\WebAPIMatricula_2C2022\obj\D
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\WebAPIMatricula_2C2022\obj\Debug\net5.0\ref\WebAPIMatricula_2C2022.dll
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\WebAPIMatricula_2C2022\obj\Debug\net5.0\WebAPIMatricula_2C2022.pdb
 C:\Users\yearia\source\repos\WebAPIMatricula_2C2022\WebAPIMatricula_2C2022\obj\Debug\net5.0\WebAPIMatricula_2C2022.genruntimeconfig.cache
+C:\Users\davil\Source\Repos\ServicioWeb\WebAPIMatricula_2C2022\obj\Debug\net5.0\WebAPIMatricula_2C2022.dll
+C:\Users\davil\Source\Repos\ServicioWeb\WebAPIMatricula_2C2022\obj\Debug\net5.0\WebAPIMatricula_2C2022.pdb
